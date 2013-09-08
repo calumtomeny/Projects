@@ -12,7 +12,6 @@ Some details:
 * My method of solving them may not be the best.
 
 I will link to each project that I complete. Some will be in this same repo, some bigger ones will have dedicated repos.
-========
 
 Numbers
 ---------
