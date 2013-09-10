@@ -6,7 +6,7 @@ A list of practical projects that anyone can solve in any programming language (
 Some details:
 
 * I will use [C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language) to solve these projects. Why? Because that's my favorite programming langauge. 
-* I develop on Windows for the programming tools like [Visual Studio](http://www.microsoft.com/visualstudio) and extensions like [ReSharper](http://www.jetbrains.com/resharper/).  
+* I develop on Windows with programming tools including [Visual Studio](http://www.microsoft.com/visualstudio) and extensions including [ReSharper](http://www.jetbrains.com/resharper/).  
 * The projects will not be made in the order posted.
 * I may not be able to complete all of them. 
 * My method of solving them may not be the best.
