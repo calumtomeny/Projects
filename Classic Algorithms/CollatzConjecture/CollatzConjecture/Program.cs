@@ -9,7 +9,7 @@
             int n;
             int steps = 0;
 
-            while (!int.TryParse(Console.ReadLine(), out n))
+            while (!int.TryParse(Console.ReadLine(), out n) || n < 1)
             {
             }
 
