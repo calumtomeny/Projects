@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("BubbleSort")]
+[assembly: AssemblyTitle("VideoConverter")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("BubbleSort")]
+[assembly: AssemblyProduct("VideoConverter")]
 [assembly: AssemblyCopyright("Copyright ©  2013")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("b4de79ad-4603-49c3-b3dc-c810b40e47cd")]
+[assembly: Guid("ec3bd149-bd1e-4f1d-a34a-81f8eca898d4")]
 
 // Version information for an assembly consists of the following four values:
 //
